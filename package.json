@@ -1,0 +1,12 @@
+{
+  "name": "rxjs",
+  "version": "1.0.0",
+  "description": "[![Build status](https://ci.appveyor.com/api/projects/status/qnaj09wqdnhf7yi8?svg=true)](https://ci.appveyor.com/project/waanh/rxjs)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
