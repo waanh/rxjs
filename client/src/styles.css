@@ -1,0 +1,24 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+table {
+  width: 70%;
+  border-collapse: collapse;
+  table-layout: fixed; 
+}
+
+th, td {
+  padding: 10px;
+  text-align: left;
+  border: none; 
+}
+
+th {
+  background: #f4f4f4;
+  text-align: left;
+}
+
+th[colspan="3"] {
+  font-weight: bold;
+}
