@@ -3,7 +3,8 @@ const cors = require("cors");
 const { faker } = require("@faker-js/faker");
 
 const app = express();
-const PORT = 3000;
+const PORT = 3001;
+const API_URL = 'http://localhost:3001/messages/unread';
 
 app.use(cors());
 
