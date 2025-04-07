@@ -24,11 +24,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/CoolPaK/ahj_rxjs-server.git"
+    "url": "git+ssh://git@github.com/waanh/rxjs.git"
   },
-  "bugs": {
-    "url": "https://github.com/CoolPaK/ahj_rxjs-server/issues"
-  },
-  "homepage": "https://github.com/CoolPaK/ahj_rxjs-server#readme",
+
+  "homepage": "https://github.com/waanh/rxjs#readme",
   "description": "homeworks"
 }
