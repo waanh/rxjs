@@ -3,15 +3,29 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "build": "webpack --mode production"
+    "build": "webpack --mode production",
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "@faker-js/faker": "^9.6.0",
-    "cors": "^2.8.5",
-    "express": "^4.21.2"
-  }
+    "@faker-js/faker": "^8.3.1",
+    "forever": "^4.0.3",
+    "koa": "^2.14.2",
+    "koa-body": "^6.0.1",
+    "koa-router": "^12.0.1",
+    "koa-static": "^5.0.0",
+    "uuid": "^9.0.1"
+  },
+  "engines": {
+    "node": ">=16.0.0 <19.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/CoolPaK/ahj_rxjs-server.git"
+  },
+  "homepage": "https://github.com/CoolPaK/ahj_rxjs-server#readme"
 }
